@@ -1,2 +1,6 @@
-# mongodb-shop-connector
-How to connect your Mongo DB to your shop website ! Using html, css, js and python ! By natrix - natrixdev
+# Mongo DB Shop 
+
+Here is a simple template to connect your online shop to a mongo db (database) to stock users informations for publicity...
+Please use it with a credit 
+
+By [natrix](https://github.com/natrixdev) for NxM !
