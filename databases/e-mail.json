@@ -1,0 +1,5 @@
+.mail{ 
+  "",
+  ""
+}
+$format : .mail & add [math.mail+1]
